@@ -18,4 +18,5 @@
 —USAGE—
 
 usage: gitnew [reponame]
+
 note: if no reponame is provided, current directory name is used
